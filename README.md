@@ -28,8 +28,7 @@ Esta é uma API para gerenciamento de ponto eletrônico, desenvolvida em Java co
 ### Passos
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/ponto-inteligente-api.git
-   cd ponto-inteligente-api
+   git clone https://github.com/marcelosenna1/sn-srv-ponto-inteligente.git
    ```
 
 2. Configure o banco de dados no `application.properties` ou `application.yml`:
