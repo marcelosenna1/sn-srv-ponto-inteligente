@@ -2,7 +2,6 @@
 
 # Ponto Inteligente API
 
-![Ponto Inteligente](https://via.placeholder.com/800x400.png?text=Ponto+Inteligente+API)
 
 ## Descrição
 Esta é uma API para gerenciamento de ponto eletrônico, desenvolvida em Java com Spring Boot. Ela permite o registro de entrada e saída de funcionários, controle de jornadas de trabalho e monitoramento de horas trabalhadas.
@@ -16,7 +15,6 @@ Esta é uma API para gerenciamento de ponto eletrônico, desenvolvida em Java co
 - **Swagger/OpenAPI** para documentação
 - **Lombok** para redução de boilerplate
 
-![Tecnologias](https://via.placeholder.com/800x400.png?text=Tecnologias+Utilizadas)
 
 ## Instalação e Configuração
 
